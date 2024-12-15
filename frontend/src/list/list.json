@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Grand Theft Auto 5",
+    "Price": 1599,
+    "image": "https://s3-ap-southeast-1.amazonaws.com/cdn.gamestheshop.com/boxart/1a3b1a1f-244f-4942-9341-a0ac3f8cf337.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Call Of Duty",
+    "Price": 2899,
+    "image": "https://s3-ap-southeast-1.amazonaws.com/cdn.gamestheshop.com/boxart/11fd0f4f-6a4e-4631-a1ca-e6a135cd007c.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Marvel's Avengers - PS5",
+    "Price": 1399,
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_1453"
+  },
+  {
+    "id": 4,
+    "name": "Marvel's Spider-Man",
+    "Price": 1699,
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_692"
+  },
+  {
+    "id": 5,
+    "name": "WWE 2K24 (Pre-owned)",
+    "Price": 1449,
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_4184"
+  },
+  {
+    "id": 6,
+    "name": "God of War Ragnarök",
+    "Price": 2499,
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_2787"
+  },
+  {
+    "id": 7,
+    "name": "NBA 2K22",
+    "Price": 1199,
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_1554"
+  },
+  {
+    "id": 8,
+    "name": "Judgment",
+    "Price": 1699,
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_1584"
+  }
+
+]
