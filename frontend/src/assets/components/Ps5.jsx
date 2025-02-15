@@ -2,10 +2,11 @@ import React from "react";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
+import list from "../../list/list.json";
 import Card from "./Card";
-import list from "../../list/list.json"
-export default function Ps4() {
-  const FilterData = list.filter((data) => data.Category === "ps4")
+export default function Game() {
+  const FilterData = list.filter((data) => data.Category === "ps5");
+
   var settings = {
     dots: true,
     infinite: false,
@@ -52,18 +53,18 @@ export default function Ps4() {
   return (
     <>
       <div className="max-w-screen-2xl container mx-auto md:px-10 px-4">
-        <div className="mt-24 mb-15">
-          <h1 className="text-2xl md:text-3xl  font-bold">PlayStation 4 - Games</h1>
+        <div className="mt-10 ">
+          <h1 className="text-2xl md:text-3xl  pt-10 font-bold">
+            PlayStation 5 - Games
+          </h1>
         </div>
         <div>
           <Slider {...settings}>
             {FilterData.map((item) => (
               <Card item={item} key={item.id} />
             ))}
-            
           </Slider>
         </div>
-        
       </div>
     </>
   );

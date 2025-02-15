@@ -2,9 +2,10 @@ import React from "react";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
-import list from '../../list/xbox.json'
 import Card from "./Card";
+import list from "../../list/list.json"
 export default function Xbox() {
+  const FilterData = list.filter((data) => data.Category === "xbox")
   var settings = {
     dots: true,
     infinite: false,
@@ -56,7 +57,7 @@ export default function Xbox() {
         </div>
         <div>
           <Slider {...settings}>
-            {list.map((item) => (
+            {FilterData.map((item) => (
               <Card item={item} key={item.id} />
             ))}
             

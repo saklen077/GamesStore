@@ -3,49 +3,168 @@
     "id": 1,
     "name": "Grand Theft Auto 5",
     "Price": 1599,
+    "Category": "ps5",
     "image": "https://s3-ap-southeast-1.amazonaws.com/cdn.gamestheshop.com/boxart/1a3b1a1f-244f-4942-9341-a0ac3f8cf337.jpg"
   },
   {
     "id": 2,
     "name": "Call Of Duty",
     "Price": 2899,
+    "Category": "ps5",
     "image": "https://s3-ap-southeast-1.amazonaws.com/cdn.gamestheshop.com/boxart/11fd0f4f-6a4e-4631-a1ca-e6a135cd007c.jpg"
   },
   {
     "id": 3,
     "name": "Marvel's Avengers - PS5",
     "Price": 1399,
+    "Category": "ps5",
     "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_1453"
   },
   {
     "id": 4,
     "name": "Marvel's Spider-Man",
     "Price": 1699,
+    "Category": "ps5",
     "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_692"
   },
   {
     "id": 5,
     "name": "WWE 2K24 (Pre-owned)",
     "Price": 1449,
+    "Category": "ps5",
     "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_4184"
   },
   {
     "id": 6,
     "name": "God of War Ragnarök",
     "Price": 2499,
+    "Category": "ps5",
     "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_2787"
   },
   {
     "id": 7,
     "name": "NBA 2K22",
     "Price": 1199,
+    "Category": "ps5",
     "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_1554"
   },
   {
     "id": 8,
     "name": "Judgment",
     "Price": 1699,
+    "Category": "ps5",
     "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_1584"
+  },
+  {
+    "id": 9,
+    "name": "Ghost Of Tsushima",
+    "Price": 1799,
+    "Category": "ps4",
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_73"
+  },
+  {
+    "id": 10,
+    "name": "Red Dead Redemption 2",
+    "Price": 1899,
+    "Category": "ps4",
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_129"
+  },
+  {
+    "id": 11,
+    "name": "Uncharted 4 ",
+    "Price": 799,
+    "Category": "ps4",
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_163"
+  },
+  {
+    "id": 12,
+    "name": "Days Gone",
+    "Price": 1099,
+    "Category": "ps4",
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_42"
+  },
+  {
+    "id": 13,
+    "name": "The Last Of Us ",
+    "Price": 699,
+    "Category": "ps4",
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_148"
+  },
+  {
+    "id": 14,
+    "name": "Assassin's Creed Odyssey ",
+    "Price": 899,
+    "Category": "ps4",
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_14"
+  },
+  {
+    "id": 15,
+    "name": "Assassins Creed Valhalla ",
+    "Price": 1299,
+    "Category": "ps4",
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_1232"
+  },
+  {
+    "id": 16,
+    "name": "Far Cry 5 ",
+    "Price": 799,
+    "Category": "ps4",
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_63"
+  },
+  {
+    "id": 17,
+    "name": "Microsoft Xbox Series S ",
+    "Price": 22999,
+    "Category": "xbox",
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_1058"
+  },
+  {
+    "id": 18,
+    "name": "Battlefield 2042",
+    "Price": 999,
+    "Category": "xbox",
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_1498"
+  },
+  {
+    "id": 19,
+    "name": "Assassin's Creed Shadows",
+    "Price": 4999,
+    "Category": "xbox",
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_4308"
+  },
+  {
+    "id": 20,
+    "name": "FIFA 23",
+    "Price": 1599,
+    "Category": "xbox",
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_2908"
+  },
+  {
+    "id": 21,
+    "name": "Forza Horizon 4",
+    "Price": 2199,
+    "Category": "xbox",
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_707"
+  },
+  {
+    "id": 22,
+    "name": "Gotham Knights",
+    "Price": 1199,
+    "Category": "xbox",
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_1926"
+  },
+  {
+    "id": 23,
+    "name": "Sniper Elite 4 ",
+    "Price": 1399,
+    "Category": "xbox",
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_491"
+  },
+  {
+    "id": 24,
+    "name": "UFC 3",
+    "Price": 1099,
+    "Category": "xbox",
+    "image": "https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/EA_508"
   }
-
 ]
