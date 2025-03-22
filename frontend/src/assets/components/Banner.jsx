@@ -59,15 +59,16 @@ export default function Banner() {
     <>
       <div className=" slider-container  pb-10 overflow-x-hidden overflow-y-hidden pt-20 ">
         <Slider {...settings} className="object-fill ">
-          <img
-            src="https://s3-ap-southeast-1.amazonaws.com/cdn.gamestheshop.com/bannerimages/2259a932-d0bd-4708-8ecb-59ab044d38c6.jpg"
-            alt="image 1"
-            className="  rounded-lg  object-fit: fill; "
-          />
+          
           <img
             src="https://s3-ap-southeast-1.amazonaws.com/cdn.gamestheshop.com/bannerimages/fe388493-cb35-4ea4-95f2-4d515927ce53.jpg"
-            alt="image 2"
+            alt="image 1"
             className="  rounded-lg  object-fit: fill;  "
+          />
+          <img
+            src="https://s3-ap-southeast-1.amazonaws.com/cdn.gamestheshop.com/bannerimages/c65e6620-661a-4f52-b37d-7b2ddb67e3d3.jpg"
+            alt="image 2"
+            className="  rounded-lg  object-fit: fill; "
           />
           <img
             src="https://s3-ap-southeast-1.amazonaws.com/cdn.gamestheshop.com/bannerimages/8322e28d-b9ce-40b9-acb2-787d12f30d7d.jpg"
